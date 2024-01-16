@@ -411,26 +411,11 @@ font-weight: 800;
     .nav-flex{
         max-width: 350px;
     }
-    .title{
-        font-size: 20px;
-    }
-    .banner{
-        background:none;
-
-    }
-    .banner-title{
-        color: #131318;
-        max-width: 200px;
-    }
-    .banner-search{
-       background: none;
-
-    }
-    .banner-input{
-        margin-right: 250px;
-    }
     .banner-des{
         display: none;
+    }
+    .title{
+        font-size: 20px;
     }
     .sa{
         width: 90px;
@@ -475,58 +460,7 @@ font-weight: 800;
     
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* responsive for max-width:600px*/
 
 @media screen and (max-width:600px){
   li{
@@ -641,20 +575,7 @@ height: 378px;
     gap:20px;
 }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* responsive for max-width:992px*/
 
 @media screen and (min-width:601px) and (max-width:992px) {
     .nav-flex{
