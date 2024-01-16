@@ -340,6 +340,28 @@ font-size: 1rem;
 font-weight: 400;
 line-height: 26px;
 }
+.footer{
+    max-width: 1440px;
+    margin-top: 100px;
+    background: rgba(19, 19, 24, 0.05);
+    padding: 100px 130px;
+}
+.title-2{
+    
+    text-align: center;
+    color: rgb(248, 88, 24);
+font-size: 1.5rem;
+font-weight: 800;
+}
+.footer-des{
+    text-align: center;
+}
+.footer-icon{
+    max-width: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 490px;
+}
 
 
 
@@ -485,6 +507,13 @@ width: 535px;
 height: 378px;
 
 }
+.footer{
+    width: 375px;
+}
+.footer-icon{
+    margin-left: 100px;
+    gap:20px;
+}
 }
 
 
@@ -596,6 +625,9 @@ margin-left: 290px;
 width: 835px;
 height: 378px;
 
+}
+.footer-icon{
+    margin: 0px 300px;
 }
 }
     
